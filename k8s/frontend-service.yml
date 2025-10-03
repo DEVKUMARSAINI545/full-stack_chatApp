@@ -9,4 +9,4 @@ spec:
   ports:
   - port: 80
     targetPort: 80
-    odePort: 30080     # NodePort (must be 30000–32767)
+    NodePort: 30080     # NodePort (must be 30000–32767)
